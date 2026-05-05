@@ -132,26 +132,3 @@ in your browser.
 * Cost breakdown by state
 * Battery storage simulation
 * Export results as PDF
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repo and submit a pull request.
-
----
-
-## 📄 License
-
-This project is currently unlicensed. You can add a license later if needed.
-
----
-
-## 👨‍💻 Author
-
-Developed as part of a learning project in renewable energy and web development.
-
----
-
-⭐ If you found this useful, consider starring the repo!
